@@ -263,3 +263,8 @@ plt.imshow(img)
 plt.subplot(1,2,2)
 plt.imshow(np.uint8(img_tinted))
 plt.show()
+
+help('dir')
+x = [1,2,3]
+# help(x)
+help(x.append)
