@@ -263,4 +263,3 @@ plt.imshow(img)
 plt.subplot(1,2,2)
 plt.imshow(np.uint8(img_tinted))
 plt.show()
-
